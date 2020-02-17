@@ -15,16 +15,16 @@ function getName() {
 
 
     if (male.checked == false && female.checked == false) {
-        alert("Hey identify your gender");
+        alert("You can't leave this blank!!");
     }
     else if (year == "" || year.length < 4 || year.length > 4){
-        alert("Hey you need to enter a valid year!");
+        alert("Incorrect!! Try again.");
     }
     else if (month < 1 || month > 12 || month == 2 && day > 29 ){
-        alert("Hey you need to enter a valid month!");
+        alert("Incorrect!! Try again.");
     }
     else if( day < 1 || day >31) {
-        alert("Hey you need to re-enter a valid day!");
+        alert("Incorrect!! Try again.");
     }
     else if (male.checked === true) {
         alert("Yo!, " + " Your AKAN name is " + maleNames[dob] + " because you were born on a " + Weekdays[dob]);
