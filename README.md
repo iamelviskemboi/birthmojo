@@ -16,8 +16,8 @@ The project is deployed. You can view it here: (https://iamelviskemboi.github.io
 
 * HTML
 * CSS
-* JavaScript
 * Bootstrap
+* JavaScript
 
 ## Authors
 
