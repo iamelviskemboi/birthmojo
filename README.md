@@ -5,7 +5,7 @@ This website calculates your birthday and outputs the day of week you were born 
 
 * You need to download and install a web browser.
 * I would suggest you get Google Chrome: (https://www.google.com/chrome/)
-* Then check out (https://iamelviskemboi.github.io/birthmojo/)
+* Then check out: (https://github.com/iamelviskemboi/birthmojo/)
 
 
 ## Deployment
