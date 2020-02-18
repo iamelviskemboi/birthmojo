@@ -21,7 +21,7 @@ The project is deployed. You can view it here: (https://iamelviskemboi.github.io
 
 ## Authors
 
-* **Elvis Kemboi** - *Initial work* - [iamelviskemboi](https://github.com/iamelviskemboi)
+* **Elvis Kemboi** - [iamelviskemboi](https://github.com/iamelviskemboi)
 
 ## License
 
