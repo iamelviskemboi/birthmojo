@@ -1,11 +1,11 @@
 # birthmojo
-This website calculates your birthday and outputs the day of week you were born through the Ghananian AKIDA naming formula.
+This website calculates your birthday and outputs the day of week you were born. It is done using the Akan names of Ghana.
 
 ### Prerequisites
 
 * You need to download and install a web browser.
 * I would suggest you get Google Chrome: (https://www.google.com/chrome/)
-* Then check out (https://iamelviskemboi.github.io/birthmojo/)
+* Then check out: (https://github.com/iamelviskemboi/birthmojo/)
 
 
 ## Deployment
@@ -16,12 +16,12 @@ The project is deployed. You can view it here: (https://iamelviskemboi.github.io
 
 * HTML
 * CSS
-* JavaScript
 * Bootstrap
+* JavaScript
 
 ## Authors
 
-* **Elvis Kemboi** - *Initial work* - [iamelviskemboi](https://github.com/iamelviskemboi)
+* **Elvis Kemboi** - [iamelviskemboi](https://github.com/iamelviskemboi)
 
 ## License
 
