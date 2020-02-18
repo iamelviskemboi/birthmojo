@@ -1,5 +1,5 @@
 # birthmojo
-This website calculates your birthday and outputs the day of week you were born. It is done using the Akan names of Ghana .
+This website calculates your birthday and outputs the day of week you were born. It is done using the Akan names of Ghana.
 
 ### Prerequisites
 
