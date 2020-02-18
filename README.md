@@ -1,5 +1,5 @@
 # birthmojo
-This website calculates your birthday and outputs the day of week you were born.
+This website calculates your birthday and outputs the day of week you were born through the Ghananian AKIDA naming formula.
 
 ### Prerequisites
 
@@ -17,6 +17,7 @@ The project is deployed. You can view it here: (https://iamelviskemboi.github.io
 * HTML
 * CSS
 * JavaScript
+* Bootstrap
 
 ## Authors
 
