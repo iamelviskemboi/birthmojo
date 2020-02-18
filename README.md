@@ -1,5 +1,5 @@
 # birthmojo
-This website calculates your birthday and outputs the day of week you were born through the Ghananian AKIDA naming formula.
+This website calculates your birthday and outputs the day of week you were born using the Ghananian AKIDA naming formula.
 
 ### Prerequisites
 
