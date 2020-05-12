@@ -1,12 +1,10 @@
 # birthmojo
-This website calculates your birthday and outputs the day of week you were born. It is done using the Akan names of Ghana.
+This website calculates your birthday and outputs the day of week you were born based on the Ghanaian AKAN naming system.
 
 ### Prerequisites
 
-* You need to download and install a web browser.
-* I would suggest you get Google Chrome: (https://www.google.com/chrome/)
-* Then check out: (https://github.com/iamelviskemboi/birthmojo/)
-
+* Download and install a web browser.
+* Preferably Google Chrome: (https://www.google.com/chrome/)
 
 ## Deployment
 
